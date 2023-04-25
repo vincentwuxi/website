@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Vincent&#x27;s Website</title>
+    <link href="https://github.com/vincentwuxi/website/feed.xml" rel="self" />
+    <link href="https://github.com/vincentwuxi/website" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Vincent Wu</name>
+    </author>
+    <id>https://github.com/vincentwuxi/website</id>
+
+</feed>
